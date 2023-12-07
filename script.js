@@ -1,22 +1,3 @@
-// console.log("Ding")
-
-// Psuedo:
-
-// - assign player1 and bot player
-
-// ask the user1 to choose - "R, P, or S"
-
-// bot randomly pick: "R, P, S"
-
-// choose a winner based on conditionns
-
-// keep track of scores
-
-// option to go again: - 10 rounds total: play again after the round has finished
-
-// - after 10 rounds: console log - total wins, ties, and loses
-// 
-
 
 // assign score trackers
 let win = 0;
